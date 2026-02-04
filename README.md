@@ -11,3 +11,6 @@ adding stuff again
 
 #### EVEN MORE CRAP
 and even more!
+
+##COPYRIGHT
+Copyright Notice
