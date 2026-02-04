@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-some more junk for rebasing
+some more junk for rebasing, even more burninating
 
 ## Purpose
 
