@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Strongbad and Trogdor
 
 # TECHNOLOGY COLOPHON
 
