@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 ### DEPLOYMENT
 adding stuff again
 
+please fork repo and issue pull req for review 
+
 #### EVEN MORE CRAP
 and even more!
 
